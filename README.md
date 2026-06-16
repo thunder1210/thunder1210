@@ -1,1 +1,2 @@
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=thunder1210&theme=dark)](https://github.com/JeremyTsai/leetcode-stats)
+
+[![Anurag's LeetCode stats](https://leetcard.jacoblin.cool/thunder1210?theme=dark&font=IBM%20Plex%20Sans&ext=activity)](https://leetcode.com/thunder1210/)
